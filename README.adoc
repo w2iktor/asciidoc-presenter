@@ -35,10 +35,10 @@ docker run -it -p 80:80 -v <PATH_TO_MAIN_DIR>:/documents/ wiktorsztajerowski/asc
 
 Now go to `http://localhost` and enjoy your presentation :)
 
-NOTE: HTML files are names same as source files, so if you have `slides.adoc` you will find your slides on 
+NOTE: HTML files are names same as source files, so if you have `slides.adoc` you find your slides on 
 `http://localhost/slides.html`
 
-TIP: check container output - it will list of serving files.
+TIP: check container output - it lists the serving files.
 
 == Customize run
 
@@ -68,5 +68,5 @@ docker run -it -p 80:80 -v <PATH_TO_MAIN_DIR>:/documents/  -v <PATH_TO_TARGET_DI
 
 === Acknowledgments
 
-Many thanks to AsciiDoctor team for providing https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker Image], which I use as a base for this image.
+Many thanks to the AsciiDoctor team for providing https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker Image], which I used as a base for this image.
 
