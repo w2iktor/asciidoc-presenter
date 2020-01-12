@@ -1,5 +1,4 @@
-Provides Reveal.js backend for asciidoc presentations.
-======================================================
+**Provides Reveal.js backend for asciidoc presentations.**
 
 Configuration
 =============

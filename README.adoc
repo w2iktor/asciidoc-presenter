@@ -8,7 +8,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-=== Provides Reveal.js backend for asciidoc presentations. 
+*Provides Reveal.js backend for asciidoc presentations.*
 
 == Configuration
 
